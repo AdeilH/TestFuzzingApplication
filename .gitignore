@@ -19,3 +19,4 @@ local.properties
 
 !afl_rpc*
 !persistent_rpc*
+!inspect_app*
