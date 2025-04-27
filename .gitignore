@@ -16,3 +16,6 @@ local.properties
 
 *.py
 *.js
+
+!afl_rpc*
+!persistent_rpc*
